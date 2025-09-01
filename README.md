@@ -43,7 +43,6 @@ The project demonstrates the complete journey of building a recommendation syste
 
 * `app.py` # Streamlit app script
 * `movie-recommendation-system.ipynb` # Jupyter Notebook (EDA & model building)
-* `requirements.txt` # Python dependencies
 * `README.md` # Project documentation
 
 ---
