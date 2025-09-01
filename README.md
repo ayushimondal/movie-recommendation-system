@@ -41,19 +41,25 @@ The project demonstrates the complete journey of building a recommendation syste
 
 ## 📂 Project Structure  
 
-├── app.py # Streamlit app script
-├── movie-recommendation-system.ipynb # Jupyter Notebook (EDA & model building)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+* `app.py` # Streamlit app script
+* `movie-recommendation-system.ipynb` # Jupyter Notebook (EDA & model building)
+* `requirements.txt` # Python dependencies
+* `README.md` # Project documentation
 
 ---
 
-## ⚡ How to Run  
+## 🚀 How to Run
 
-1. Clone the repository:  
-   git clone https://github.com/your-username/movie-recommendation-system.git
-   cd movie-recommendation-system
-2 .Install dependencies:
-   pip install -r requirements.txt
-3 .Run the Streamlit app:
-   streamlit run app.py
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/your-username/movie-recommendation-system.git](https://github.com/your-username/movie-recommendation-system.git)
+    cd movie-recommendation-system
+    ```
+2.  Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  Run the Streamlit app:
+    ```bash
+    streamlit run app.py
+    ```
