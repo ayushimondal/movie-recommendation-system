@@ -51,7 +51,7 @@ The project demonstrates the complete journey of building a recommendation syste
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ayushimondal/movie-recommendation-system.git](https://github.com/ayushimondal/movie-recommendation-system.git)
+   git clone https://github.com/ayushimondal/movie-recommendation-system.git
    cd movie-recommendation-system
 2.  Install dependencies:
     ```bash
